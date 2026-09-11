@@ -1,7 +1,7 @@
 Получение ежечасной награды в Яндекс покере без просмотра рекламы.
 
 [![Установить](https://img.shields.io/badge/Install-2ea44f?style=for-the-badge)](
-https://raw.githubusercontent.com/Cyberkon/ypoker-ad-bypass/main/user.js
+https://raw.githubusercontent.com/Cyberkon/ypoker-ad-bypass/main/ybypass.user.js
 )
 
 При использовании AdBlock игра не позволяет получить награду за рекламу.
