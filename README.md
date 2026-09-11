@@ -1,4 +1,4 @@
-Получение ежечасной награды в [Яндекс](https://yandex.ru/games/app/442398) покере без просмотра рекламы.
+Получение ежечасной награды в [Яндекс покере](https://yandex.ru/games/app/442398) без просмотра рекламы.
 
 [![Установить](https://img.shields.io/badge/Install-2ea44f?style=for-the-badge)](
 https://raw.githubusercontent.com/Cyberkon/ypoker-ad-bypass/main/ybypass.user.js
