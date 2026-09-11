@@ -8,4 +8,5 @@ https://raw.githubusercontent.com/Cyberkon/ypoker-ad-bypass/main/ybypass.user.js
 
 Скрипт перехватывает вызов и сообщает игре об успешном получении награды, не запуская само видео.
 
-Установите Tampermonkey с магазина расширений вашего браузера. Предоставьте ему нужные разрешения. Нажмите на кнопку и установите.
+Установите Tampermonkey с магазина расширений вашего браузера. Предоставьте ему нужные разрешения. Нажмите на кнопку Install.
+<img width="900" height="529" alt="demo" src="https://github.com/user-attachments/assets/1cc4f4bf-6bae-4477-8bcb-804fec86edf0" />
